@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to bottom, #E88D07, #E84307);
+    text-align: center;
+    height: 100vh;
+}
+.campo {
+    background-color: #F59838;
+   margin-top: 70%;
+   height: 100px;
+   border-radius: 5%;
+}
+.box {
+    height: 600px;
+    width: 30%;
+    background: #D73001;
+    margin: 0 auto;
+    border-radius: 5%;
+}
+.text {
+    margin: 5%;
+}
